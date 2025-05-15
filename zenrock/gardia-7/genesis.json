@@ -1,5 +1,4 @@
 {
-    "genesis": {
       "genesis_time": "2025-05-15T07:58:28.319746601Z",
       "chain_id": "gardia-7",
       "initial_height": "1",
@@ -721,5 +720,4 @@
           "params": {}
         }
       }
-    }
 }
